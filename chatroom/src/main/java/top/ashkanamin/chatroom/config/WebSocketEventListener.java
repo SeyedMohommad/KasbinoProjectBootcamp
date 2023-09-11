@@ -1,4 +1,4 @@
-package top.ashkanamin.demo.config;
+package top.ashkanamin.chatroom.config;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
@@ -7,8 +7,8 @@ import org.springframework.messaging.simp.SimpMessageSendingOperations;
 import org.springframework.messaging.simp.stomp.StompHeaderAccessor;
 import org.springframework.stereotype.Component;
 import org.springframework.web.socket.messaging.SessionDisconnectEvent;
-import top.ashkanamin.demo.chat.ChatMessage;
-import top.ashkanamin.demo.chat.MessageType;
+import top.ashkanamin.chatroom.chat.ChatMessage;
+import top.ashkanamin.chatroom.chat.MessageType;
 
 
 @Component

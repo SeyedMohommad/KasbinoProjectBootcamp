@@ -1,4 +1,4 @@
-package top.ashkanamin.demo.chat;
+package top.ashkanamin.chatroom.chat;
 
 import lombok.*;
 

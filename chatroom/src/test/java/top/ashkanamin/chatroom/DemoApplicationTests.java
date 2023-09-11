@@ -1,4 +1,4 @@
-package top.ashkanamin.demo;
+package top.ashkanamin.chatroom;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

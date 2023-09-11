@@ -1,4 +1,4 @@
-package top.ashkanamin.demo.config;
+package top.ashkanamin.chatroom.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.messaging.simp.config.MessageBrokerRegistry;
